@@ -1,0 +1,11 @@
+.titulo{
+    font-style: bolder;
+    text-align: center;
+    color: #fff;
+    margin-top: 25%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+body{
+    background-color: black;
+}
