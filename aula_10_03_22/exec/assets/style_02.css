@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+    text-shadow: 10px 10px 10px rgb(85, 1, 85);
+    margin-top: 20%;
+    
+}
+
+.forms{
+    margin-top: 20%;
+}
+
+p{
+    font-weight: bolder;
+}
+
+.processa{
+    background-color: black;
+    color: white;
+    text-align: center;
+    text-shadow: 10px 10px 10px rgb(85, 1, 85);
+    margin-top: 25%;
+
+}
+
+.s_n{
+    font-weight: bolder;
+}
